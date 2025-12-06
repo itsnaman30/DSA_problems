@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/itsnaman30/DSA_problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsnaman30/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/itsnaman30/DSA_problems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsnaman30/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
