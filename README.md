@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsnaman30/DSA_problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/itsnaman30/DSA_problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsnaman30/DSA_problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/itsnaman30/DSA_problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
