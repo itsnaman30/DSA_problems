@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/itsnaman30/DSA_problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/itsnaman30/DSA_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/itsnaman30/DSA_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/itsnaman30/DSA_problems/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/itsnaman30/DSA_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/itsnaman30/DSA_problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/itsnaman30/DSA_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/itsnaman30/DSA_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/itsnaman30/DSA_problems/tree/master/0069-sqrtx) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsnaman30/DSA_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0045-jump-game-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/itsnaman30/DSA_problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
