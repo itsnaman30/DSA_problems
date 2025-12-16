@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/itsnaman30/DSA_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsnaman30/DSA_problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/itsnaman30/DSA_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/itsnaman30/DSA_problems/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsnaman30/DSA_problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/itsnaman30/DSA_problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/itsnaman30/DSA_problems/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
