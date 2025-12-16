@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/itsnaman30/DSA_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/itsnaman30/DSA_problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/itsnaman30/DSA_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/itsnaman30/DSA_problems/tree/master/0069-sqrtx) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsnaman30/DSA_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsnaman30/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/itsnaman30/DSA_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsnaman30/DSA_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/itsnaman30/DSA_problems/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/itsnaman30/DSA_problems/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/itsnaman30/DSA_problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
