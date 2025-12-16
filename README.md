@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itsnaman30/DSA_problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsnaman30/DSA_problems/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/itsnaman30/DSA_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/itsnaman30/DSA_problems/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsnaman30/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
