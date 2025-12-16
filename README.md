@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/itsnaman30/DSA_problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/itsnaman30/DSA_problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/itsnaman30/DSA_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/itsnaman30/DSA_problems/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/itsnaman30/DSA_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsnaman30/DSA_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/itsnaman30/DSA_problems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/itsnaman30/DSA_problems/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsnaman30/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/itsnaman30/DSA_problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/itsnaman30/DSA_problems/tree/master/0049-group-anagrams) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsnaman30/DSA_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sliding Window
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/itsnaman30/DSA_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/itsnaman30/DSA_problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/itsnaman30/DSA_problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
