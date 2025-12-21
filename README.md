@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itsnaman30/DSA_problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsnaman30/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsnaman30/DSA_problems/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/itsnaman30/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/itsnaman30/DSA_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsnaman30/DSA_problems/tree/master/0042-trapping-rain-water) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsnaman30/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/itsnaman30/DSA_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/itsnaman30/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/itsnaman30/DSA_problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/itsnaman30/DSA_problems/tree/master/0049-group-anagrams) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsnaman30/DSA_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsnaman30/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/itsnaman30/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0047-permutations-ii) |
 ## Stack
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/itsnaman30/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/itsnaman30/DSA_problems/tree/master/0048-rotate-image) |
 ## Heap (Priority Queue)
 |  |
