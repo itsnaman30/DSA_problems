@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsnaman30/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/itsnaman30/DSA_problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/itsnaman30/DSA_problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/itsnaman30/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsnaman30/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/itsnaman30/DSA_problems/tree/master/0020-valid-parentheses) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsnaman30/DSA_problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/itsnaman30/DSA_problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/itsnaman30/DSA_problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/itsnaman30/DSA_problems/tree/master/0045-jump-game-ii) |
 ## Hash Table
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsnaman30/DSA_problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/itsnaman30/DSA_problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/itsnaman30/DSA_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/itsnaman30/DSA_problems/tree/master/0050-powx-n) |
 ## Counting
